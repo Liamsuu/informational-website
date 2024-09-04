@@ -1,3 +1,3 @@
 # informational-website
 
-Over the past couple days I have been learning how to do some backend tasks using NodeJS. I will be using what I learnt in this small project to practice serving webpages based on the URL path. The sites looks are very simple, the concepts rather than how the page looks was the priority.
+A simple site. I will simply practice what I have learnt from NodeJS over the past couple days, and then rework the application to use Express JS. The design and content is not a priority, this website is simply used to reinforce what I have learnt.
